@@ -1,0 +1,1 @@
+DELETE FROM bfplayer WHERE class_id>3;
